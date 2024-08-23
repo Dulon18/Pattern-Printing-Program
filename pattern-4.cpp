@@ -21,7 +21,7 @@ int main() {
     return 0;
 }
 
-Output:
+Output : Rhombus Star Pattern
 
 ****
  ****
