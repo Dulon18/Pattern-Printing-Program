@@ -22,3 +22,12 @@ int main() {
     pattern(5); 
     return 0;
 }
+
+
+Output: Pyramid Star Pattern
+
+    *
+   ***
+  *****
+ *******
+*********
