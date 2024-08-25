@@ -36,3 +36,15 @@ int main() {
     pattern(5); // You can change the value for a larger or smaller diamond
     return 0;
 }
+
+Output: Diamond Star Pattern
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
