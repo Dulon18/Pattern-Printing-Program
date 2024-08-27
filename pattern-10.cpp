@@ -37,3 +37,11 @@ int main() {
     return 0;
 }
 
+Output: Hollow Inverted Pyramid Star Pattern
+
+************
+ *       * 
+  *     * 
+   *   * 
+    * * 
+     * 
