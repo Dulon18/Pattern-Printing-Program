@@ -36,3 +36,13 @@ int main() {
     pattern(8); 
     return 0;
 }
+
+Output: Hollow Pyramid Star Pattern
+
+      * 
+     * * 
+    *   * 
+   *     * 
+  *       * 
+ *         * 
+*************
